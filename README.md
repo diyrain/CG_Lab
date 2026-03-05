@@ -1,4 +1,4 @@
-# CG_Lab - 万有引力粒子群仿真
+# Work0 万有引力粒子群仿真程序
 
 ## 项目架构
 
@@ -41,7 +41,7 @@ CG_Lab/
 ## 结果演示
 
 <div align="center">
-  <img src="docs/images/demo.gif" width="600" alt="渲染演示" />
+  <img src="docs/images/w0.gif" width="600" alt="渲染演示" />
 </div>
 
 ## 实现功能
