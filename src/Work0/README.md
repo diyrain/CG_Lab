@@ -11,7 +11,8 @@ CG_Lab/
 │       ├── __init__.py
 │       ├── config.py      # 配置文件，定义物理和渲染参数
 │       ├── main.py        # 主程序，负责初始化和渲染
-│       └── physics.py     # 物理计算核心，实现粒子运动和引力计算
+│       |── physics.py     # 物理计算核心，实现粒子运动和引力计算
+|       └── README.md      #说明文档
 ├── .gitignore
 ├── .python-version
 ├── README.md
