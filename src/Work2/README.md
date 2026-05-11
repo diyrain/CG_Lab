@@ -118,8 +118,6 @@ curr_angles = quat_to_angles(q_t)
   <img src="../../docs/images/w2_2_chazhi.gif" width="600" alt="渲染演示" />
 </div>
 
-
-
 ### 交互控制
 
 - **A 键**：减少插值参数 t（向姿态 A 过渡）
